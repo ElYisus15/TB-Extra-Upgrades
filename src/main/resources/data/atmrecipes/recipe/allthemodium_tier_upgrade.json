@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "allthemodium:allthemodium_ingot"
+  },
+  "base": {
+    "item": "travelersbackpack:netherite_tier_upgrade"
+  },
+  "result": {
+    "count": 1,
+    "id": "travelersbackpack:allthemodium_tier_upgrade"
+  },
+  "template": {
+    "item": "allthemodium:allthemodium_upgrade_smithing_template"
+  }
+}

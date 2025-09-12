@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:leathers"
+    },
+    "B": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "result": {
+    "count": 4,
+    "id": "travelersbackpack:blank_upgrade"
+  }
+}

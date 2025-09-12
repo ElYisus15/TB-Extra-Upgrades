@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "travelersbackpack:iron_tier_upgrade",
+    "travelersbackpack:gold_tier_upgrade",
+    "travelersbackpack:diamond_tier_upgrade",
+    "travelersbackpack:netherite_tier_upgrade",
+    "travelersbackpack:allthemodium_tier_upgrade",
+    "travelersbackpack:vibranium_tier_upgrade",
+    "travelersbackpack:unobtainium_tier_upgrade"
+  ]
+}
